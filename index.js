@@ -85,4 +85,4 @@ server.use((ctx) => {
     }
 });
 
-server.listen(8081, () => console.log("Está rodando na porta 8081"));
+server.listen(8081, () => console.log("Running!"));
